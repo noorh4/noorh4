@@ -26,7 +26,7 @@ A comprehensive enterprise network simulation implemented entirely on Microsoft 
 - **Key Features:** Configured 3 peered Virtual Networks (VNet1: DC, VNet2: Web Server, VNet3: Client Network). Implemented internal DNS resolution and successfully joined Windows Server VMs to a custom domain (`163860.DS476.com`) with an active IIS Web Server.
 - **Tech Used:** Microsoft Azure, AD DS, DNS, Virtual Network Peering, IIS Web Server, Windows Server.
 
-### 📊 [Telco Customer Churn Prediction](https://github.com)
+### 📊 [Telco Customer Churn Prediction](https://github.com/noorh4/customer-churn-prediction)
 An end-to-end Machine Learning pipeline developed in Google Colab to predict customer churn, handle highly imbalanced datasets, and provide actionable business metrics.
 - **Key Features:** Conducted deep EDA, compared multiple models (Logistic Regression, Random Forest, XGBoost), and applied **Explainable AI (XAI) using SHAP** values to extract customer risk alerts and suggest Next Best Actions (upgrades, discounts).
 - **Tech Used:** Python, Jupyter Notebook, XGBoost, SHAP, Scikit-learn, Pandas.
