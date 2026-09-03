@@ -21,7 +21,7 @@
 ---
 
 ## 📱 Featured Projects
-### ☁️ [Azure Cloud Infrastructure Project](https://github.com)
+### ☁️ [Azure Cloud Infrastructure Project](https://github.com/noorh4/azure-active-directory-project)
 A comprehensive enterprise network simulation implemented entirely on Microsoft Azure using Active Directory Domain Services (AD DS).
 - **Key Features:** Configured 3 peered Virtual Networks (VNet1: DC, VNet2: Web Server, VNet3: Client Network). Implemented internal DNS resolution and successfully joined Windows Server VMs to a custom domain (`163860.DS476.com`) with an active IIS Web Server.
 - **Tech Used:** Microsoft Azure, AD DS, DNS, Virtual Network Peering, IIS Web Server, Windows Server.
@@ -42,7 +42,3 @@ An end-to-end Machine Learning pipeline developed in Google Colab to predict cus
 ## 🤝 Connect With Me
 - 📧 Email: [your.email@example.com](mailto:noorhailat4@example.com)
 
----
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
