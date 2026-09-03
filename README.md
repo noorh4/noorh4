@@ -40,5 +40,5 @@ An end-to-end Machine Learning pipeline developed in Google Colab to predict cus
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: [noorhailat4@example.com](mailto:noorhailat4@example.com)
+- 📧 Email: [noorhailat4@gmail.com](mailto:noorhailat4@gmail.com)
 
